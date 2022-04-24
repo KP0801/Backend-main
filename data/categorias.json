@@ -1,0 +1,32 @@
+[
+    {
+        "idCategoria":1,
+        "nombreCategoria":"Comida",
+        "imagenCategoria":"img/Comida.png",
+        "empresas":[1, 2, 3 ]
+    },
+    {
+        "idCategoria":2,
+        "nombreCategoria":"Útiles",
+        "imagenCategoria":"img/Utiles.png",
+        "empresas":[4, 5, 6 ]
+    },
+    {
+        "idCategoria":3,
+        "nombreCategoria":"Farmacia",
+        "imagenCategoria":"img/Farmacia.png",
+        "empresas":[7, 8, 9]
+    },
+    {
+        "idCategoria":4,
+        "nombreCategoria":"Supermercado",
+        "imagenCategoria":"img/Supermercado.png",
+        "empresas":[10, 11, 12]
+    },
+    {
+        "idCategoria":5,
+        "nombreCategoria":"Paquete",
+        "imagenCategoria":"img/Mandado-Paquete.png",
+        "empresas":[ ]
+    }
+]
